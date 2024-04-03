@@ -4,7 +4,7 @@ API Documentation HTML Template
 
 ---
 
-![img.png](img.png)
+![img.png](assets/img/homepage.png)
 
 ---
 *Raul Bolivar Navas **@rasysbox***
