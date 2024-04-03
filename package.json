@@ -3,9 +3,9 @@
   "version": "1.0.0",
   "description": "API Documentation HTML Template",
   "main": "index.js",
+  "type": "module",
   "scripts": {
-    "start": "node index.js",
-    "serve": "nodemon index.js"
+    "start": "node index.js"
   },
   "keywords": [
     "api-template",
@@ -15,9 +15,7 @@
   "author": "Raul Bolivar Navas @rasysbox",
   "license": "ISC",
   "dependencies": {
+    "bootstrap": "^5.3.3",
     "express": "^4.19.2"
-  },
-  "devDependencies": {
-    "nodemon": "^3.1.0"
   }
 }
